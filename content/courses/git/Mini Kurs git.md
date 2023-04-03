@@ -10,3 +10,9 @@ Git'i öğrenmek yalnızca yazılım projelerinde başkalarıyla çalışmayı k
 
 Git becerileri teknoloji endüstrisinde yüksek talep görmektedir, bu nedenle Git öğrenmek kişinin kariyer beklentilerini de artırabilir. Genel olarak Git, yazılım geliştirme ile ilgilenen herkes için önemli bir araçtır ve Git'i öğrenmek kişinin profesyonel gelişimine bir yatırımdır.
 
+[[courses/git/Mini Kurs git|Mini Kurs: git]]
+* Giriş
+	- [[courses/git/git nedir?|git nedir?]]
+	* [[courses/git/gitin onemi?|git'in önemi?]]
+	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
+
