@@ -21,3 +21,5 @@ Bu bölümde size bazı temel git terminolojisini sunacak olsam da, herhangi bir
 > **Remote:** Remote, [GitHub](http://github.com/) veya [GitLab](https://gitlab.com/) üzerinde barındırılan bir repo gibi uzak bir repo'ya referanstır.
 
 > **Fork:** Fork, farklı bir hesap(account) veya kuruluşta(organization) uzak bir reponun kopyasını hendi uzak(remote) hesabınızda oluşturma işlemidir. Bu, kopyalanan repo'da orijinal repo'dan bağımsız olarak değişiklik yapmanıza ve istenirse orijinal repo'ya pull request (çekme istekleri) yapmanıza olanak tanır.
+
+Sıradaki: [[giti yukleme|git'i yükleme]]
