@@ -3,4 +3,5 @@
 	- [[courses/git/git nedir?|git nedir?]]
 	* [[courses/git/gitin onemi|git'in önemi]]
 	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
-
+ * Yükleme ve pratik
+	 * [[courses/git/giti yukleme|git'i yükleme]]
