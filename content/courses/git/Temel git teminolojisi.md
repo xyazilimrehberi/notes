@@ -22,4 +22,4 @@ Bu bölümde size bazı temel git terminolojisini sunacak olsam da, herhangi bir
 
 > **Fork:** Fork, farklı bir hesap(account) veya kuruluşta(organization) uzak bir reponun kopyasını hendi uzak(remote) hesabınızda oluşturma işlemidir. Bu, kopyalanan repo'da orijinal repo'dan bağımsız olarak değişiklik yapmanıza ve istenirse orijinal repo'ya pull request (çekme istekleri) yapmanıza olanak tanır.
 
-Sıradaki: [[git kurulumu|git'i yükleme]]
+Sıradaki: [[git kurulumu|git kurulumu]]

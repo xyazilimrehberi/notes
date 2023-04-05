@@ -12,4 +12,4 @@ Genel olarak Git, modern yazılım geliştirme için önemli bir araçtır ve he
 
 > **Eğlenceli bilgi:** Linus Torvalds, projelerine kendi adını ve "get" kelimesini verme eğiliminde olduğu için git'e kendi adını vermiştir. Torvalds'a göre git ismi kısa, hatırlaması kolay ve diğer yazılım araçlarından farklı olduğu için seçilmiştir. 2007 yılındaki bir e-posta listesi gönderisinde kendisini, tıpkı Linux'ta yaptığı gibi projelerine kendi adını vermeyi seven "egoist bir piç" olarak tanımladı. Biraz mizahi kökenine rağmen Git, yazılım geliştirme için hayati bir araç haline geldi ve artık hem geliştiriciler hem de kuruluşlar arasında kullanımı yaygınlaştı.
 
-Sıradaki: [[courses/git/gitin onemi?|git'in önemi?]]
+Sıradaki: [[gitin onemi|git'in önemi]]
