@@ -1,6 +1,7 @@
 ---
-title: giti yukleme
+title: git kurulumu
 ---
+
 
 Git'i kullanmaya başlamak için önce bilgisayarınıza yükleyelim. Kurulum adımları işletim sisteminize bağlı olarak farklılık gösterecektir. Aşağıda, windows dahil olmak üzere, farklı işletim sistemleri için gerekli adımlarda size rehberlik edeceğim. Kodlama öğrenme yolculuğunuzun bu noktasında işletim sisteminizi değiştirmenize gerek olmadığını belirtmekte fayda var. Ancak, .Net Framework ile devam etmeye karar vermediğiniz sürece, öğrenme yolculuğunuzda daha da ilerlemeye karar verdiğinizde macOS veya Ubuntu gibi Unix benzeri işletim sistemlerini kullanmanızı tavsiye ediyorum.
 
