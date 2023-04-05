@@ -47,3 +47,5 @@ sudo apt-get install git
 ==Windows kullanıcıları== için Git yükleyicisini [resmi web sitesinden](https://git-scm.com/download/win) indirebilirsiniz. Yükleyici indirildikten sonra, yükleme işlemini başlatmak için çift tıklayın. Kurulumu tamamlamak için yönergeleri izleyin.
 
 Git'i kurduktan sonra, terminalinizde veya cmd'de `git --version` komutunu tekrar çalıştırarak doğru şekilde yüklenip yüklenmediğini kontrol edebilirsiniz. Versiyon numarasını görüyorsanız, Git'i kullanmaya başlamaya hazırsınız demektir!
+
+Sıradaki: [[courses/git/git pratigi|git pratiği]]

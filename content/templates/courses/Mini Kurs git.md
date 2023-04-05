@@ -5,3 +5,5 @@
 	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
  * Yükleme ve pratik
 	 * [[git kurulumu|git kurulumu]]
+	 * [[courses/git/git pratigi|git pratiği]]
+	 * [[courses/git/Son bolum|Son bölüm]]
