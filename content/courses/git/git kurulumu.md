@@ -49,3 +49,13 @@ sudo apt-get install git
 Git'i kurduktan sonra, terminalinizde veya cmd'de `git --version` komutunu tekrar çalıştırarak doğru şekilde yüklenip yüklenmediğini kontrol edebilirsiniz. Versiyon numarasını görüyorsanız, Git'i kullanmaya başlamaya hazırsınız demektir!
 
 Sıradaki: [[courses/git/git pratigi|git pratiği]]
+
+[[courses/git/Mini Kurs git|Mini Kurs: git]]
+* Giriş
+	- [[courses/git/git nedir?|git nedir?]]
+	* [[courses/git/gitin onemi|git'in önemi]]
+	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
+ * Git kurulumu ve pratik
+	 * [[git kurulumu|git kurulumu]]
+	 * [[courses/git/git pratigi|git pratiği]]
+	 * [[courses/git/Son bolum|Son bölüm]]

@@ -8,3 +8,12 @@ Git'in temellerini öğrenerek daha yetkin bir geliştirici olma yolunda önemli
 
 Tebrikler! Artık Git ve sürüm kontrolü konusunda sağlam bir temele sahipsiniz. Git'i keşfetmeye ve denemeye devam ettiğinizde yetkin bir Git kullanıcısı olma yolunda ilerleyeceksiniz. Çalışmalarınıza devam edin ve unutmayın, pratik yaparak gelişirsiniz.
 
+[[courses/git/Mini Kurs git|Mini Kurs: git]]
+* Giriş
+	- [[courses/git/git nedir?|git nedir?]]
+	* [[courses/git/gitin onemi|git'in önemi]]
+	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
+ * Git kurulumu ve pratik
+	 * [[git kurulumu|git kurulumu]]
+	 * [[courses/git/git pratigi|git pratiği]]
+	 * [[courses/git/Son bolum|Son bölüm]]

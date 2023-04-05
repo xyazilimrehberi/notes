@@ -113,3 +113,13 @@ Git günlüğünde, diğer ilgili bilgilerle birlikte revert commit'inin ayrınt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzUtIy0cg2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Sıradaki: [[courses/git/Son bolum|Son bölüm]]
+
+[[courses/git/Mini Kurs git|Mini Kurs: git]]
+* Giriş
+	- [[courses/git/git nedir?|git nedir?]]
+	* [[courses/git/gitin onemi|git'in önemi]]
+	 * [[courses/git/Temel git teminolojisi|Temel git teminolojisi]]
+ * Git kurulumu ve pratik
+	 * [[git kurulumu|git kurulumu]]
+	 * [[courses/git/git pratigi|git pratiği]]
+	 * [[courses/git/Son bolum|Son bölüm]]
